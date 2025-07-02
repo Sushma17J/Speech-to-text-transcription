@@ -1,0 +1,11 @@
+pip install speechrecognition pyaudio pydub
+
+pip install pydub pocketsphinx
+
+Run the main Python script:python your_script_name.py
+
+Install FFmpeg separately for format conversion
+
+If you're using audio files in formats like MP3 or MP4, also install:
+
+pip install pydub
